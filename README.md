@@ -2,7 +2,7 @@
 
 I enjoy building data systems and exploring how data can be transformed into meaningful insights. My work spans data engineering and data analytics, from designing relational databases and data pipelines to cleaning, processing, analyzing, and visualizing data.
 
-I work primarily with PostgreSQL, MySQL, and Python, alongside cloud infrastructure and development tools that support my workflow. When designing data systems, I focus on aligning the architecture with real-world user needs while keeping future analytical use cases in mind.
+I work primarily with PostgreSQL, MySQL, Kotlin, and Python, alongside cloud infrastructure and development tools that support my workflow. When designing data systems, I focus on aligning the architecture with real-world user needs while keeping future analytical use cases in mind.
 
 Security, data integrity, and reliability are important considerations in how I approach database and pipeline design. On the analytics side, I explore statistical methods, investigate data patterns, and build interactive dashboards to help communicate findings and support better decisions.
 
