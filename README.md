@@ -1,6 +1,6 @@
 # about-me
 
-I am currently a first-semester Informatics Engineering student at STMIK Rosma, continuously developing my knowledge and technical capabilities in data systems and analytics.
+I am currently a first-semester Informatics Engineering student at STMIK Rosma Karawang, continuously developing my knowledge and technical capabilities in data systems and analytics.
 
 I enjoy building data systems and exploring how data can be transformed into meaningful insights. My work spans data engineering and data analytics, from designing relational databases and data pipelines to cleaning, processing, analyzing, and visualizing data.
 
