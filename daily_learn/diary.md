@@ -1,5 +1,7 @@
 | Date | Description |
 | --- | --- |
+| 08/11/2026 | finally tugas kalkulus udah beres, saudara saudaraku udah pada pulang dan udah mulai sibuk sendiri. I wish ibu akuu bisa tetep kuat dan ngga merasa sendiri, walaupun aku ngga bisa ngobrol dengan baik dengan dia |
+| 08/11/2026 | hari ini tugas ngerjain tugas kalkulus, pagi hari masih ramai di rumah saya |
 |07/11/2026 | hari ini saya buka shopee dan nyoba fitur affiliate dan ada error "minimal sambungkan satu akun sosmed", dari sini saya sadar "iyaa jugaa, di system tracker financial saya, gimana cara SQL tau member ini bener bener milik organisasi tertentu atau ngga, dan aturan organisasi minimal punya 2 member gimana?, apakah di level backend atau di level database?", pertanyaan yang menarik bagi diri saya yang sekarang, mungkin senin atau selasa saya akan cari tau dan belajar. karena minggu saya mau ngerjain kalkulus. |
 | 07/11/2026 | hari ini turunin energy dulu dehh, cape banget seminggu ini, besok mau ngerjain kalkulus |
 | 06/11/2026 | saya install doppler dan mulai mempelajari doppler untuk mengamankan variables sensitif. |
