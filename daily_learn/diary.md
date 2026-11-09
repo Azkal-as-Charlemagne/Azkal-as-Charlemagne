@@ -1,5 +1,6 @@
 | Date | Description |
 | --- | --- |
+| 09/11/2026 | pertanyaan gw waktu sabtu kemarin udah kejawab. ternyata solusinya untuk di level database pasang unique saja supaya member tidak bisa masuk dua kali ke organisasi yang sama. untuk aturan satu organization minimal 2 member, ternyata lebih bagus di level backend/server. nanti gw akan pelajari. |
 | 09/11/2026 | sumpahh hari ini gw ketinggalan uang pas mau berangkat kuliah. mana udah jauh lagi, udah mepet jam masuk pula. alhasil terlambat dehh, untung masih diizinin masuk kelas TwT |
 | 08/11/2026 | finally tugas kalkulus udah beres, saudara saudaraku udah pada pulang dan udah mulai sibuk sendiri. I wish ibu akuu bisa tetep kuat dan ngga merasa sendiri, walaupun aku ngga bisa ngobrol dengan baik dengan dia |
 | 08/11/2026 | hari ini tugas ngerjain tugas kalkulus, pagi hari masih ramai di rumah saya |
