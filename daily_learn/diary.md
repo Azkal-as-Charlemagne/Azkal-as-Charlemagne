@@ -1,5 +1,6 @@
 | Date | Description |
 | --- | --- |
+| 11/11/2026 | sumpahh anjirr, seneng banget gw. akhirnya gw tau cara nyambungin intellij gw ke doppler. untung sekarang udah beres TwT. dan jujur hari ini seru banget TwT, tapi cape banget TwT |
 | 10/11/2026 | sumpahh cape banget hari ini, ngantuk juga. hari ini gw baru ngerti ternyata cara nyambungin intellij ke doppler lewat terminal, dan harus install dulu dopplernyaa, okee okee gw lanjut belajar besok |
 | 09/11/2026 | pertanyaan gw waktu sabtu kemarin udah kejawab. ternyata solusinya untuk di level database pasang unique saja supaya member tidak bisa masuk dua kali ke organisasi yang sama. untuk aturan satu organization minimal 2 member, ternyata lebih bagus di level backend/server. nanti gw akan pelajari. |
 | 09/11/2026 | sumpahh hari ini gw ketinggalan uang pas mau berangkat kuliah. mana udah jauh lagi, udah mepet jam masuk pula. alhasil terlambat dehh, untung masih diizinin masuk kelas TwT |
