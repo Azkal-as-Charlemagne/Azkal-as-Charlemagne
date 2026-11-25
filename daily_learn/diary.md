@@ -1,5 +1,6 @@
 | Date | Description |
 | --- | --- |
+| 25/11/2026 | udah lama kaga update jirr, kayanyaa gw ahrus bongkar database financial_tracker dehh, gw buat UI&UX nyaa pake AI jirr, ngga papa dehh, yang penting backend dan databasenya buatan gw sendiri :3 |
 | 13/11/2026 | hari ini bosenin banget. tapi hari ini gw lagi belajar RBAC di level database. sumpah ribet banget tapi seru, bentar lagi juga selesai ini mahh |
 | 11/11/2026 | sumpahh anjirr, seneng banget gw. akhirnya gw tau cara nyambungin intellij gw ke doppler. untung sekarang udah beres TwT. dan jujur hari ini seru banget TwT, tapi cape banget TwT |
 | 10/11/2026 | sumpahh cape banget hari ini, ngantuk juga. hari ini gw baru ngerti ternyata cara nyambungin intellij ke doppler lewat terminal, dan harus install dulu dopplernyaa, okee okee gw lanjut belajar besok |
